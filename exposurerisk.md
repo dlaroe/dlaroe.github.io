@@ -13,11 +13,11 @@ https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html#
 
 What I'm assuming:  
 The CDC knows what they are doing.  
-Lorie's home test was accurate (I wasn't Shake and Bake but I *did* help.)  
+Lorie's home test was accurate (It wasn't Shake and Bake but I *did* help.)  
 Covid usually takes several days before symptoms show up and someone is contagious.  
 A negative home test Covid test usually means that someone doesn't have enough virus in them to easily infect others.
 
-Let's go through the timeline, italics are my reasonable assumptions:
+Let's go through the timeline, **in bold** are my reasonable assumptions:
 
 |Tuesday |Wednesday |Thursday |Friday |Saturday |Sunday |Monday |Tuesday|
 |--|--|--|--|--|--|--|--|
